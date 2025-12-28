@@ -26,7 +26,7 @@ Screenshots of the dashboard:
 ![Dashboard](Screenshots/project.pdf)
 
 ## Repository Structure
-- `Sql/` → MySQL queries used
+- `sql/` → MySQL queries used
 - `Power BI/` → Power BI dashboard file
 - `Screenshots/` → Dashboard visuals
 
