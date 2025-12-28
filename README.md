@@ -10,10 +10,10 @@ This project analyzes sales data using **MySQL** for data processing and **Power
 - CSV Data
 
 ## Key Analysis
-- Revenue trends by region
+- Revenue trends by customers
 - Top-performing products
 - Monthly sales performance
-- Profitability insights
+- Yearly distribution of records
 
 ## Database Design
 - Tables imported into MySQL
@@ -23,19 +23,12 @@ This project analyzes sales data using **MySQL** for data processing and **Power
 ## Power BI Dashboard
 Screenshots of the dashboard:
 
-![Dashboard](screenshots/dashboard1.png)
-![Dashboard](screenshots/dashboard2.png)
+![Dashboard](Screenshots/project.pdf)
 
 ## Repository Structure
-- `sql/` → MySQL queries used
-- `powerbi/` → Power BI dashboard file
-- `screenshots/` → Dashboard visuals
-
-## How to Use
-1. Import the SQL file into MySQL
-2. Load data into Power BI
-3. Connect Power BI to MySQL
-4. Refresh visuals
+- `Sql/` → MySQL queries used
+- `Power BI/` → Power BI dashboard file
+- `Screenshots/` → Dashboard visuals
 
 ## Key Learnings
 - Writing optimized SQL queries
